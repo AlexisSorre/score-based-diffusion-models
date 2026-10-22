@@ -38,4 +38,4 @@ numpy pandas scipy matplotlib torch
 ## Notes
 
 - The notebook text and comments are in French.
-- Neural network training ($2 \times 10^5$ epochs by default, `N_EPOCHS`) is the slowest part; reduce it for a quick run.
+
